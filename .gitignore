@@ -1,0 +1,32 @@
+# Logs
+logs/*.log
+logs/*.json
+logs/blocked_ips.log
+logs/attempts.json
+
+# Temp files
+temp/*
+backups/*
+
+# Sensitive files
+config.local.php
+.env
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node modules (if used)
+node_modules/
+npm-debug.log*
+
+# Composer
+vendor/
+composer.lock
