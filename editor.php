@@ -132,7 +132,7 @@ $rootFiles = getFileList($currentDir);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Web Shell Pro - Code Editor</title>
-
+    
     <!-- CodeMirror CSS -->
     <link rel="stylesheet" href="assets/lib/codemirror/codemirror.css">
     
@@ -410,34 +410,15 @@ $rootFiles = getFileList($currentDir);
     </div>
     
     <!-- ============================================
-    JavaScript Libraries - Make sure all modes are loaded
+    JavaScript Libraries
     ============================================ -->
-    <!-- CodeMirror Core -->
+    <!-- CodeMirror -->
     <script src="assets/lib/codemirror/codemirror.js"></script>
-
-    <!-- 🔥 FIX: Load all required modes -->
     <script src="assets/lib/codemirror/mode/xml/xml.js"></script>
     <script src="assets/lib/codemirror/mode/css/css.js"></script>
     <script src="assets/lib/codemirror/mode/javascript/javascript.js"></script>
     <script src="assets/lib/codemirror/mode/htmlmixed/htmlmixed.js"></script>
     <script src="assets/lib/codemirror/mode/php/php.js"></script>
-
-    <!-- 🔥 FIX: Additional modes for better highlighting -->
-    <script src="assets/lib/codemirror/mode/sql/sql.js"></script>
-    <script src="assets/lib/codemirror/mode/markdown/markdown.js"></script>
-    <script src="assets/lib/codemirror/mode/python/python.js"></script>
-    <script src="assets/lib/codemirror/mode/shell/shell.js"></script>
-
-    <!-- CodeMirror Addons -->
-    <script src="assets/lib/codemirror/addon/edit/matchbrackets.js"></script>
-    <script src="assets/lib/codemirror/addon/selection/active-line.js"></script>
-    <script src="assets/lib/codemirror/addon/fold/foldcode.js"></script>
-    <script src="assets/lib/codemirror/addon/fold/foldgutter.js"></script>
-    <script src="assets/lib/codemirror/addon/fold/brace-fold.js"></script>
-    <script src="assets/lib/codemirror/addon/fold/xml-fold.js"></script>
-    <script src="assets/lib/codemirror/addon/fold/indent-fold.js"></script>
-    <script src="assets/lib/codemirror/addon/fold/comment-fold.js"></script>
-
     <script src="assets/lib/codemirror/addon/edit/matchbrackets.js"></script>
     <script src="assets/lib/codemirror/addon/selection/active-line.js"></script>
 
