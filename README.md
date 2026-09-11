@@ -559,7 +559,7 @@ copies or substantial portions of the Software.
 
 <div align="center">
 
-**Your Name**
+**Mehdi Soheili**
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MeSoheili)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MeSoheili)
@@ -602,7 +602,7 @@ If this project helped you, please consider:
 
 ---
 
-**Made with ❤️ by [Your Name](https://github.com/MeSoheili)**
+**Made with ❤️ by [Mehdi Soheili](https://github.com/MeSoheili)**
 
 **⭐ Don't forget to star this repo if you found it useful! ⭐**
 
